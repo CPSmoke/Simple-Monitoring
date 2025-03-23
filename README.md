@@ -24,10 +24,10 @@ Accessing the Dashboard
 Open a web browser and enter:
 
 If locally:
-http://localhost:19999
+    http://localhost:19999
 
 If remotely:
-http://<IP-SERVER>:19999
+    http://IP-SERVER:19999
 
 This will open the Netdata dashboard.
 
